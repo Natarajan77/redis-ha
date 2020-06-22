@@ -144,20 +144,3 @@ fi
 
 launchslave
 housekeeping
-
-Software License Details
-
-Customer Name: NATARAJAN SUNDARAMOORTHY
-Company: UNITED HEALTH GROUP
-Edition: Studio 3T Enterprise
-Number of users: 1
-License Period: 25 Jan 2020 - 25 Jan 2021  Support Level: Priority Support
-
-#Aw==\djF8NXwxfHRydWV8MjUwMTIwLzIyOjM1OjI3LjQ0NHwyNS4wMS4yMDIwfDI1LjAx
-LjIwMjF8c3ViUHxOQVRBUkFKQU4gU1VOREFSQU1PT1JUSFl8VU5JVEVEIEhFQUxUSCBHUk
-9VUHxf\esl8vIkhVtkrnRW5yi448Apwa9ExJWdcJf7focNKp+akGcz/hYGdkeFAI+RTQx4
-bA0uWejA0pGdNiMYNXv00XZEjK1e9aU/R7hg2QO16GSNdk7MuKsTl+PSuuGDwvswgCo57T
-IeEeYK5Pq0FguHxJYFMGDRBSkCliC6+snZb57Q9O/dHSiQVY+Sz789a90QNSwU5QkzxJyJ
-3S7ip2BhO8rwoit5JRaygS5PzN4Xk2fyerJ63wlQ03xjq1ka07TrAnKxzunRP5KccBv1ye
-nlz7xiQ0yj9lve2HuCNTvwnWvj4NCp9AydyNN0aXxu7s32LjEkUhpgJuuXHXFwzIEYvFg=
-=#
